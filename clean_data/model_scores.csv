@@ -1,0 +1,12 @@
+,model,score
+0,CountVectorizer and KNeighborsClassifier,0.7444444444444445
+1,CountVectorizer and BernoulliNB,0.8650793650793651
+2,CountVectorizer and ExtraTreesClassifier,0.8682539682539683
+3,TfidfVectorizer and BernoulliNB,0.8777777777777778
+4,CountVectorizer and LogisticRegression,0.8793650793650793
+5,TfidfVectorizer and GradientBoostingClassifier,0.8825396825396825
+6,TfidfVectorizer and RandomForestClassifier,0.8841269841269841
+7,CountVectorizer and GradientBoostingClassifier,0.8857142857142857
+8,TfidfVectorizer and ExtraTreesClassifier,0.8920634920634921
+9,CountVectorizer and RandomForestClassifier,0.9095238095238095
+10,TfidfVectorizer and LogisticRegression,0.9142857142857143
