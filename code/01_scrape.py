@@ -3,11 +3,11 @@ import pandas as pd
 import requests
 import datetime
 
-client_id = "n4v1Gso81V6MUtbAhnvtfg"
-client_secret = "dLfc-SsDDIL4VjIyklqLEA5zergWCw"
-user_agent = "Landry Houston"
-username = "LandryHouston"
-password = "DSI1113LH"
+client_id = 
+client_secret = 
+user_agent = 
+username = 
+password = 
 
 auth = requests.auth.HTTPBasicAuth(client_id, client_secret)
 data = {"grant_type": "password", "username": username, "password": password}
